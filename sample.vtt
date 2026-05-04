@@ -1,0 +1,16 @@
+WEBVTT 
+ 
+00:00:01.000 --
+John: We need to build a customer portal for Polycab dealers. 
+ 
+00:00:06.000 --
+Sarah: It should allow dealers to place orders, track shipments, and view invoices online. 
+ 
+00:00:13.000 --
+John: Yes, and it must integrate with our SAP system. Mobile access is also required. 
+ 
+00:00:21.000 --
+Sarah: Security is critical. Role-based access for dealers and admins. SSO with Azure AD. 
+ 
+00:00:29.000 --
+John: We cannot change the SAP schema. Budget is fixed at 50 lakhs. Go-live by December 2026. 
